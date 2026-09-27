@@ -1,0 +1,8 @@
+{
+  "name": "루트원 영어 계단",
+  "description": "루트원 영어 계단 - Visual-Syntactic Text Format (VSTF) 영어 문장구조 계층형 변환기 & 구문 독해 학습 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
